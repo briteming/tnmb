@@ -1,7 +1,7 @@
 ---
 title: '战马'
 date: '2025-12-14T13:04:00.675Z'
-description: '这是一篇文章'
+description: 'read more...'
 thumbnail: '/img/blog/blog-thumbnail.png'
 ---
 
